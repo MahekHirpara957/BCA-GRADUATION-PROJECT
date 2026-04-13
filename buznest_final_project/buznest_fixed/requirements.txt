@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+scikit-learn
+google-generativeai
+supabase
+xgboost
+openpyxl
+reportlab
+numpy
